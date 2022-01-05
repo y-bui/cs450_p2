@@ -267,5 +267,4 @@ public class Student{
     }// End of connectToDatabase()
 }// End of class
 
-//oracle pw: whoostuz
 
